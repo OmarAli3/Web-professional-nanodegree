@@ -12,3 +12,5 @@ I have solidified my knowledge and practiced on:
   - In this project I have built a landing page that uses JavaScript to create an interactive navigational experience for the user.
 - **Weather Journal App**
   - This project combines data from the OpenWeatherMap API and client side (browser) HTML forms, to create a web app that records a weather journal for users.
+### Certificate
+<img src="Certificate.jpg" alt="Certificate of completion" >
